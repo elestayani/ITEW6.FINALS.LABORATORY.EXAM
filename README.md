@@ -9,5 +9,5 @@ FRONTEND (cd front_end)
 # npm install vue-router bootstrap @popperjs/core axios sweetalert2
 
 
-BACKEND (cd front_end)
-# pip install django-cors-headers Pillow djangorestframework
+BACKEND (cd back_end)
+# pip install django myqsqlclient django-cors-headers Pillow djangorestframework

@@ -89,6 +89,7 @@
   import axios from 'axios'
   import NavBar from '../components/NavBar.vue'
   import 'bootstrap/dist/js/bootstrap.bundle.min.js'
+  import bootstrap from 'bootstrap'
   
   export default {
     components: { NavBar },
